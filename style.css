@@ -1,0 +1,143 @@
+.home-site{
+	background:#282828;
+	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #fff;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+
+h1{
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 200pt;
+	text-align: center;
+	color: #fff;
+	font-weight: lighter;
+	padding-top: auto;
+	margin-bottom: 0px;
+	position: relative;
+}
+
+h3{
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bolder;
+
+}
+
+h4{
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bolder;
+}
+
+
+h2{
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bolder;
+	margin-left: 200px;
+	padding-bottom: 200px;
+	
+
+}
+
+
+p{
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: #fff;
+	font-weight: lighter;
+	padding-top: 0px;
+	margin-bottom: 0px;
+}
+
+li{
+	list-style: none;
+	margin: 0px 5px;
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px 20px;
+	color: #fff;
+	position: relative;
+	bottom: 260px;
+
+}
+
+li:hover{
+	color: #292929;
+	cursor: pointer;
+}
+
+.sobre-mim{
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.img-site{
+	background:#282828;
+	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #fff;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.footer-site{
+	background-color: #333333;
+	color: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+span{
+	align-content: left;
+
+}
+
+hr{
+	background-color: #333fff;
+	width: 200px;
+	height: 10px;
+}
+
+img{
+	object-fit: cover;
+	height: 360px!important;
+}
+
+.titulo{
+	font-size: 80px;
+	text-align: center;
+	font-weight: bolder;
+	margin-left: 300px;
+	padding-bottom: 200px;
+	
+}
+
+.subtitulo{
+	text-align: center;
+	font-weight: bolder;
+	
+	
+}
+
+.sobre-texto{
+	display: flex;
+	justify-content: center;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bolder;
+	font-size: 25px;
+}
